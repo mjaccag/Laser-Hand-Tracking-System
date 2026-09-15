@@ -1,4 +1,4 @@
-# Circuit-Laser-System
+# Elegoo-Laser-System
 Individual Electrical Engineering Project #1. 
 
 ## Laser System Overview
