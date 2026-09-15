@@ -1,6 +1,6 @@
 # Engineering Log
 
-## September 2026 - Project Setup
+## September 14th, 2026 - Project Setup
 
 ### Objective
 Establish the initial project structure and begin planning the hand-motion-controlled laser system.
@@ -19,3 +19,5 @@ The system will detect the movement of the user's hand and reproduce that motion
 - Test the motion-sensing components
 - Test servo or motor control
 - Integrate motion sensing with laser movement
+
+## ## September 15th, 2026 - Project Setup
